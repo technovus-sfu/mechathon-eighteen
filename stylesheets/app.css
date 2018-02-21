@@ -577,7 +577,9 @@ body.section-expanded .controls {
   text-transform: uppercase; }
 #speakers-section h1 {
   margin: 0;
-  font-size: 16px; }
+  font-size: 16px;
+  text-shadow: 1px -1px 0 #F8B1B1, -1px -1px 0 #F8B1B1, -1px 1px 0 #F8B1B1, 1px 1px 0 #F8B1B1;
+}
 #speakers-section h5 {
   margin: 0;
   color: #F8B1B1; }
