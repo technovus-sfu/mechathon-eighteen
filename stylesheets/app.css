@@ -490,11 +490,11 @@ body.section-expanded .controls {
   .controls .content::-webkit-scrollbar {
     width: 14px;
     background-color: #F8B1B1;
-    border-left: 1px solid #fff;
-    border-right: 12px solid #fff; }
+    border-left: 1px solid transparent;
+    border-right: 12px solid transparent; }
   .controls .content::-webkit-scrollbar-thumb {
     background-color: #FF585D;
-    border-right: 11px solid #fff; }
+    border-right: 11px solid transparent; }
     .controls .content::-webkit-scrollbar-thumb:window-inactive, .controls .content::-webkit-scrollbar-thumb:-moz-window-inactive {
       background-color: transparent; }
 .controls .above {
@@ -578,6 +578,7 @@ body.section-expanded .controls {
 #speakers-section h1 {
   margin: 0;
   font-size: 16px;
+  color: #252C37;
   text-shadow: 1px -1px 0 #F8B1B1, -1px -1px 0 #F8B1B1, -1px 1px 0 #F8B1B1, 1px 1px 0 #F8B1B1;
 }
 #speakers-section h5 {
@@ -590,7 +591,7 @@ body.section-expanded .controls {
 #speakers-section .blue img {
   border-color: #05bcff; }
 #speakers-section .blue h1 {
-  color: #fff;
+  color: #252C37;
   text-shadow: 1px -1px 0 #05bcff, -1px -1px 0 #05bcff, -1px 1px 0 #05bcff, 1px 1px 0 #05bcff; }
 #speakers-section .blue h5 {
   color: #BEE7F0; }
