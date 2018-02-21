@@ -114,7 +114,7 @@
 
 	/* Handle timezone conversions */
     function daysToHack() {
-	    var launchDate = new Date('Feb 23 2018');
+	    var launchDate = new Date('Feb 24 2018');
         var localDate = new Date();
 		var utc = localDate.getTime() + (localDate.getTimezoneOffset() * 60000);
 		var edtNow = new Date(utc + (3600000*(-4)));
