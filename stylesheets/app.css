@@ -615,8 +615,8 @@ body.section-expanded .controls {
   /*filter: brightness(0) invert(1);*/
   transition: .25s; }
   #sponsors-section .logo.platinum, #sponsors-section .logo.custom {
-    width: 145px;
-    height: 145px; }
+    width: 100%;
+    height: auto; }
   #sponsors-section .logo.gold {
     width: 125px;
     height: 125px; }
