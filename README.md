@@ -1,4 +1,4 @@
-# [mechathon.technovus.ca](http://mechathon.technovus.ca) :computer:
+# mechathon-eighteen :computer:
 Mechathon 2018 website derived from HackMIT 2017 by [hackmit.org](https://hackmit.org)
 
 ## License
